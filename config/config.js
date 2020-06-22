@@ -1,0 +1,1 @@
+module.exports.SEED = 'app-angular-urtaav-1020';
